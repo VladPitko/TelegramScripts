@@ -27,3 +27,14 @@ To run this bot locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/telegram-bot.git
+2. Install the required dependencies:
+   ```bash
+    cd telegram-bot
+    pip install -r requirements.t
+3. Run the bot:
+    ```bash
+    Copy code
+    python bot.py
+    
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests for new features or bug fixes.
