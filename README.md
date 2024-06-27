@@ -40,5 +40,5 @@ To run this bot locally, follow these steps:
 Contributions are welcome! Feel free to open issues or submit pull requests for new features or bug fixes.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) file for details.
 
